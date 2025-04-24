@@ -4,8 +4,9 @@
 
 A Flutter desktop application that simplifies the integration of Google Maps into Flutter projects.
 
-![Google Maps Integrator Banner](https://via.placeholder.com/1200x300?text=Google+Maps+Integrator)
-
+<div align="center">
+  <img src="assets/screenshots/google_maps_demo.png" width="387" alt="Google Maps Demo">
+</div>
 ## 🚀 Features
 
 - **One-Click Integration** of Google Maps Flutter package
@@ -27,7 +28,7 @@ A Flutter desktop application that simplifies the integration of Google Maps int
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/google-maps-integrator.git
+   git clone https://github.com/Abdalrhman-Abuwarda/automated_package_integration.git
    ```
 
 2. Navigate to the project directory
